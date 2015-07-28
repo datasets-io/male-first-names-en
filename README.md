@@ -40,11 +40,6 @@ console.log( names );
 ```
 
 
-## Notes
-
-Names were pulled from [Project Gutenberg](http://www.gutenberg.org/files/3201/3201.txt).
-
-
 ## Examples
 
 ``` javascript
@@ -66,6 +61,12 @@ To run the example code from the top-level application directory,
 ``` bash
 $ node ./examples/index.js
 ```
+
+
+## References
+
+* 	Ward, Grady. *Moby Word II*. 2002. [Project Gutenberg](http://www.gutenberg.org/files/3201/3201.txt). Web. 27 July 2015.
+
 
 
 ## Tests

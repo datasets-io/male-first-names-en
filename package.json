@@ -36,7 +36,9 @@
 		"given",
 		"personal",
 		"name",
-		"firstname"
+		"firstname",
+		"english",
+		"en"
 	],
   "bugs": {
     "url": "https://github.com/datasets-io/male-first-names-en/issues"

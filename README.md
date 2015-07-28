@@ -20,7 +20,7 @@ var names = require( 'datasets-male-first-names-en' );
 
 #### names
 
-A [list](http://www.gutenberg.org/files/3201/3201.txt) of common male first ([given](https://en.wikipedia.org/wiki/Given_name)) names in English speaking countries.
+A list of common male first ([given](https://en.wikipedia.org/wiki/Given_name)) names in English speaking countries.
 
 ``` javascript
 console.log( names );

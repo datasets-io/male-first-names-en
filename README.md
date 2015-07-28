@@ -56,7 +56,7 @@ var len = names.length,
 	i;
 
 for ( i = 0; i < N; i++ ) {
-	idx = Math.round( Math.random()*len );
+	idx = Math.ceil( Math.random()*len ) - 1;
 	console.log( names[ idx ] ); 
 }
 ```

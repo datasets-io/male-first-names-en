@@ -2,7 +2,7 @@ English Male First Names
 ===
 [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Coverage Status][codecov-image]][codecov-url] [![Dependencies][dependencies-image]][dependencies-url]
 
-> A list of common male first ([given](https://en.wikipedia.org/wiki/Given_name)) names in English speaking countries.
+> A list of common male first names in English speaking countries.
 
 
 ## Installation

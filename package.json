@@ -1,7 +1,7 @@
 {
   "name": "datasets-male-first-names-en",
   "version": "0.0.0",
-  "description": "A list of common male first (given) names in English speaking countries.",
+  "description": "A list of common male first names in English speaking countries.",
   "author": {
     "name": "Athan Reines",
     "email": "kgryte@gmail.com"
@@ -35,7 +35,8 @@
 		"person",
 		"given",
 		"personal",
-		"name"
+		"name",
+		"firstname"
 	],
   "bugs": {
     "url": "https://github.com/datasets-io/male-first-names-en/issues"

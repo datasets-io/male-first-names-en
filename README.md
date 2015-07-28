@@ -20,7 +20,7 @@ var names = require( 'datasets-male-first-names-en' );
 
 #### names
 
-A list of common male first ([given](https://en.wikipedia.org/wiki/Given_name)) names in English speaking countries.
+A list of common male first names (also known as [given](https://en.wikipedia.org/wiki/Given_name) or personal names) in English speaking countries.
 
 ``` javascript
 console.log( names );
